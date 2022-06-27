@@ -16,7 +16,6 @@ FONT SIZE SYSTEM (px)
 body {
   font-size: 12px;
   font-family: "Red Hat Display", sans-serif;
-  /* background-color: hsl(225, 100%, 94%); */
   background-image: url(/images/pattern-background-desktop.svg);
   height: 100vh;
   line-height: 1;
